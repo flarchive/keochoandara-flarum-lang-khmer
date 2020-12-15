@@ -1,0 +1,28 @@
+{
+    "name": "keochoandara/flarum-lang-khmer",
+    "type": "flarum-extension",
+    "description": "Khmer language pack.",
+    "keywords": ["locale"],
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^0.1.0-beta.14"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Khmer",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#032ea1",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "kh",
+            "title": "Khmer"
+        }
+    }
+}
