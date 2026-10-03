@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of keochoandara/flarum-lang-khmer.** Not for installation: use [Packagist](https://packagist.org/packages/keochoandara/flarum-lang-khmer) or the [upstream repository](https://github.com/keochoandara/flarum-lang-khmer).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/keochoandara-flarum-lang-khmer/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.14`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/keochoandara-flarum-lang-khmer/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-12-15 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/keochoandara-flarum-lang-khmer/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-12-15 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/keochoandara-flarum-lang-khmer/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/keochoandara-flarum-lang-khmer.json](https://github.com/flarchive/archive-index/blob/main/packages/keochoandara-flarum-lang-khmer.json)
 
